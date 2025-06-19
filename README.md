@@ -26,7 +26,7 @@ Analyzed global COVID-19 data using pivot tables, charts, and conditional format
 ### 🏆 Certifications
 
 - **Introduction to Data Analytics– Coursera**
-- ** Data Visualization and Dashboards with Excel and Cognos– Coursera**
+- **Data Visualization and Dashboards with Excel and Cognos– Coursera**
 - **Business intelligence and data analytics: Generate  insights– Coursera**
 
 ---
