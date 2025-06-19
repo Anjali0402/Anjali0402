@@ -1,26 +1,58 @@
-<h1 align="center">Hi 👋, I'm Anjali Solanki</h1>
-<h3 align="center">I am Data Analysis</h3>
+# 👋 Hi, I'm Anjali — Aspiring Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali040&label=Profile%20views&color=0e75b6&style=flat" alt="anjali040" /> </p>
+🎓 MCA Graduate | 📊 Passionate about turning data into meaningful insights | 💡 Always learning something new!
 
-- 📫 How to reach me **anjalisolanki0470@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/anjali-solanki-4883102a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anjali-solanki-4883102a6" height="30" width="40" /></a>
-<a href="https://instagram.com/its_anjali_0402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_anjali_0402" height="30" width="40" /></a>
-</p>
+### 🔧 Tools & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.Python.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Languages:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data Visualization:** Power BI, Tableau, MS Excel
+- **Database Management:** MySQL
+- **Other Skills:** Data Cleaning, Dashboarding, Exploratory Data Analysis (EDA), Statistical Analysis
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Anjali0402"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anjali0402" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali040&show_icons=true&locale=en&layout=compact" alt="anjali040" /></p>
+### 📈 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali040&show_icons=true&locale=en" alt="anjali040" /></p>
+#### 🍕 [Pizza Sales Dashboard – Power BI](https://github.com/yourusername/pizza-sales-dashboard)
+Interactive dashboard analyzing pizza sales using slicers, bar charts, line graphs. Includes KPIs like revenue, category-wise sales & trends.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali040&" alt="anjali040" /></p>## Hi there 👋
+#### 🦠 [COVID-19 Data Analysis – Excel](https://github.com/yourusername/covid19-analysis-excel)
+Analyzed global COVID-19 data using pivot tables, charts, and conditional formatting. Identified patterns in spread and recovery rates.
+
+#### 📉 [EDA on HR Dataset – Python](https://github.com/yourusername/hr-analytics-python)
+Exploratory Data Analysis on HR dataset to understand attrition patterns using Python libraries like Pandas, Matplotlib, and Seaborn.
+
+#### 📊 [Sales Data Analysis – SQL](https://github.com/yourusername/sales-data-sql)
+Performed data extraction and KPI reporting using SQL queries (JOINS, GROUP BY, WINDOW FUNCTIONS) on retail sales data.
+
+---
+
+### 🏆 Certifications
+
+- **Google Data Analytics Certificate – Coursera**
+- **Power BI A-Z: Hands-On – Udemy**
+- **Excel for Data Analytics – LinkedIn Learning**
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)    
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+### 📌 GitHub Stats
+
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+_“Without data, you’re just another person with an opinion.” – W. Edwards Deming_
+
 
 
