@@ -15,33 +15,27 @@
 
 ### 📈 Projects
 
-#### 🍕 [Pizza Sales Dashboard – Power BI](https://github.com/yourusername/pizza-sales-dashboard)
+#### 🍕 [Pizza Sales Dashboard – Power BI](https://github.com/Anjali0402/pizza-sales-dashboard)
 Interactive dashboard analyzing pizza sales using slicers, bar charts, line graphs. Includes KPIs like revenue, category-wise sales & trends.
 
-#### 🦠 [COVID-19 Data Analysis – Excel](https://github.com/yourusername/covid19-analysis-excel)
+#### 🦠 [COVID-19 Data Analysis – Excel](https://github.com/Anjali0402/covid19-analysis-excel)
 Analyzed global COVID-19 data using pivot tables, charts, and conditional formatting. Identified patterns in spread and recovery rates.
-
-#### 📉 [EDA on HR Dataset – Python](https://github.com/yourusername/hr-analytics-python)
-Exploratory Data Analysis on HR dataset to understand attrition patterns using Python libraries like Pandas, Matplotlib, and Seaborn.
-
-#### 📊 [Sales Data Analysis – SQL](https://github.com/yourusername/sales-data-sql)
-Performed data extraction and KPI reporting using SQL queries (JOINS, GROUP BY, WINDOW FUNCTIONS) on retail sales data.
 
 ---
 
 ### 🏆 Certifications
 
-- **Google Data Analytics Certificate – Coursera**
-- **Power BI A-Z: Hands-On – Udemy**
-- **Excel for Data Analytics – LinkedIn Learning**
+- **Introduction to Data Analytics– Coursera**
+- ** Data Visualization and Dashboards with Excel and Cognos– Coursera**
+- **Business intelligence and data analytics: Generate  insights– Coursera**
 
 ---
 
 ### 📬 Let's Connect
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)    
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: anjalisolanki0470@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/anjali-solanki-4883102a6](https://linkedin.com/in/anjali-solanki-4883102a6)    
+- 🌐 Portfolio: [datascienceportfol.io/anjali0470](http://datascienceportfol.io/anjali0470)
 
 ---
 
