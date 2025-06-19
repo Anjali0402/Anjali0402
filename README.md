@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Solanki</h1>
-<h3 align="center">I am Student of Master of Computer Applications</h3>
+<h3 align="center">I am Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali040&label=Profile%20views&color=0e75b6&style=flat" alt="anjali040" /> </p>
-
-- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **anjalisolanki0470@gmail.com**
 
